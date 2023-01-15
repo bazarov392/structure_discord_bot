@@ -1,0 +1,17 @@
+{
+  "name": "structure_discord_bot",
+  "version": "1.0.0",
+  "description": "Структура дискорд бота от Maut",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon run index.js",
+    "start": "node index.js"
+  },
+  "author": "Maut",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.1.0",
+    "discord.js": "^14.3.0",
+    "mysql2": "^2.3.3"
+  }
+}

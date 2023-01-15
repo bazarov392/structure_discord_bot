@@ -1,0 +1,20 @@
+{
+    "db": {
+        "host": "localhost",
+        "user": "root",
+        "password": "root",
+        "database": "discordbot"
+    },
+    "discord": {
+        "token": "",
+        "client_id": "",
+        "guild_id": "",
+        "public_key": "",
+        "roles": {
+            "admin": 0
+        },
+        "channels": {
+            "admin_chat": 0
+        }
+    }
+}
